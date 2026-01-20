@@ -1,0 +1,4 @@
+﻿BookingId;Hotel;CheckInDate;CheckOutDate;GuestName;Nights;Amount;Currency
+1;A Hotel;01/01/2025;05/01/2025;Maria;4;400;$
+2;B Hotel;02/01/2025;07/01/2025;Ana;5;500;$
+3;C Hotel;03/01/2025;06/05/2025;Jose;3;300;$
