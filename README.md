@@ -60,5 +60,5 @@ CSV → Azure Blob Storage
 ---
 
 ## 📸 Sample Dashboard
-![Dashboard](adf/pipeline_ingest_blob_to_sql.png)
+![Dashboard](/hotel-bookings-etl-azure-powerbi/powerbi/pipeline_ingest_blob_to_sql.png)
 
