@@ -56,3 +56,9 @@ CSV → Azure Blob Storage
 - Data cleaning & type casting
 - Power BI dashboarding
 - End-to-end analytics workflow
+
+---
+
+## 📸 Sample Dashboard
+![Dashboard](adf/pipeline_ingest_blob_to_sql.png)
+
